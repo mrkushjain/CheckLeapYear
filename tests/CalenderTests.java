@@ -29,14 +29,21 @@ public class CalenderTests {
     }
 
     @Test
-    public void test3_HunderedIsNotALeapYear() throws Exception {
+    public void test4_HunderedIsNotALeapYear() throws Exception {
         assertFalse(calender.isLeapYear(100));
     }
 
     @Test
-    public void test3_TwoHunderedIsNotALeapYear() throws Exception {
+    public void test5_TwoHunderedIsNotALeapYear() throws Exception {
         assertFalse(calender.isLeapYear(200));
     }
+
+    @Test
+    public void test6_FourHunderedIsALeapYear() throws Exception {
+        assertTrue(calender.isLeapYear(400));
+    }
+
+
 
 
 }
