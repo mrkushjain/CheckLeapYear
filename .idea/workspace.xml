@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07cff3cc-5da8-4551-886c-b152acb63a48" name="Default" comment="" />
+    <list default="true" id="07cff3cc-5da8-4551-886c-b152acb63a48" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Calender.java" afterPath="$PROJECT_DIR$/src/Calender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/CalenderTests.java" afterPath="$PROJECT_DIR$/tests/CalenderTests.java" />
+    </list>
     <ignored path="CheckLeapYear.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="07cff3cc-5da8-4551-886c-b152acb63a48" time="1375179105308" ignored="false" />
-    <file path="/LeapYearTests.java" changelist="07cff3cc-5da8-4551-886c-b152acb63a48" time="1375179534799" ignored="false" />
-    <file path="/Calender.java" changelist="07cff3cc-5da8-4551-886c-b152acb63a48" time="1375179607941" ignored="false" />
+    <file path="/LeapYearTests.java" changelist="07cff3cc-5da8-4551-886c-b152acb63a48" time="1375180203683" ignored="false" />
+    <file path="/Calender.java" changelist="07cff3cc-5da8-4551-886c-b152acb63a48" time="1375185214784" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CalenderTests.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CalenderTests.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/CalenderTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="33" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
+            <state line="28" column="0" selection-start="654" selection-end="654" vertical-scroll-proportion="0.79696393">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calender.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Calender.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="352" selection-end="352" vertical-scroll-proportion="0.34155598">
+            <state line="15" column="8" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -109,8 +112,8 @@
         <option value="$PROJECT_DIR$/src/Year.java" />
         <option value="$PROJECT_DIR$/tests/LeapYearTests.java" />
         <option value="$PROJECT_DIR$/tests/YearTests.java" />
-        <option value="$PROJECT_DIR$/tests/CalenderTests.java" />
         <option value="$PROJECT_DIR$/src/Calender.java" />
+        <option value="$PROJECT_DIR$/tests/CalenderTests.java" />
       </list>
     </option>
   </component>
@@ -229,7 +232,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalenderTests.test1_FourIsALeapYear">
+  <component name="RunManager" selected="JUnit.CalenderTests.test3_EightIsALeapYear">
     <configuration default="false" name="CalenderTests.test1_FourIsALeapYear" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="CheckLeapYear" />
@@ -238,6 +241,29 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CalenderTests" />
       <option name="METHOD_NAME" value="test1_FourIsALeapYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalenderTests.test3_EightIsALeapYear" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CheckLeapYear" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalenderTests" />
+      <option name="METHOD_NAME" value="test3_EightIsALeapYear" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -344,12 +370,14 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test1_FourIsALeapYear" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_EightIsALeapYear" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test1_FourIsALeapYear" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_EightIsALeapYear" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalenderTests.test1_FourIsALeapYear" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -462,19 +490,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tests/CalenderTests.java">
+    <entry file="file://$PROJECT_DIR$/src/Calender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="15" column="8" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calender.java">
+    <entry file="file://$PROJECT_DIR$/tests/CalenderTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="352" selection-end="352" vertical-scroll-proportion="0.34155598">
-          <folding />
+        <state line="28" column="0" selection-start="654" selection-end="654" vertical-scroll-proportion="0.79696393">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

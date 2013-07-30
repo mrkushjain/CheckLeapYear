@@ -16,4 +16,15 @@ public class CalenderTests {
     public void test1_FourIsALeapYear() throws Exception {
         assertTrue(calender.isLeapYear(4));
     }
+
+    @Test
+    public void test2_FiveIsNotALeapYear() throws Exception {
+        assertTrue(calender.isLeapYear(5));
+    }
+
+    @Test
+    public void test3_EightIsALeapYear() throws Exception {
+        assertTrue(calender.isLeapYear(8));
+    }
+
 }

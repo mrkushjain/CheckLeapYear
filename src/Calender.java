@@ -8,7 +8,7 @@
 public class Calender {
     private final int LEAPYEARDIVIDER =4;
     public boolean isLeapYear(int givenYear) {
-        if(givenYear==LEAPYEARDIVIDER)
+        if(givenYear%LEAPYEARDIVIDER==0)
             return true;
         return  false;
     }
