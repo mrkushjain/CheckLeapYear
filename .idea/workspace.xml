@@ -73,7 +73,7 @@
       <file leaf-file-name="CalenderTests.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/CalenderTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="4" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.857685">
+            <state line="47" column="44" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.857685">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +84,7 @@
       <file leaf-file-name="Calender.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="43" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+            <state line="13" column="117" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/src/Year.java" />
         <option value="$PROJECT_DIR$/tests/LeapYearTests.java" />
         <option value="$PROJECT_DIR$/tests/YearTests.java" />
-        <option value="$PROJECT_DIR$/src/Calender.java" />
         <option value="$PROJECT_DIR$/tests/CalenderTests.java" />
+        <option value="$PROJECT_DIR$/src/Calender.java" />
       </list>
     </option>
   </component>
@@ -232,30 +232,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalenderTests.test3_TwoHunderedIsNotALeapYear">
-    <configuration default="false" name="CalenderTests.test1_FourIsALeapYear" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="CheckLeapYear" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalenderTests" />
-      <option name="METHOD_NAME" value="test1_FourIsALeapYear" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.CalenderTests.test7_EightHunderedIsALeapYear">
     <configuration default="false" name="CalenderTests.test3_EightIsALeapYear" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="CheckLeapYear" />
@@ -333,6 +310,29 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CalenderTests" />
       <option name="METHOD_NAME" value="test3_TwoHunderedIsNotALeapYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CalenderTests.test7_EightHunderedIsALeapYear" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CheckLeapYear" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalenderTests" />
+      <option name="METHOD_NAME" value="test7_EightHunderedIsALeapYear" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -440,19 +440,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test1_FourIsALeapYear" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_EightIsALeapYear" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_HunderedIsNotALeapYear" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TWOHUNDEREDIsNotALeapYear" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TwoHunderedIsNotALeapYear" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_EightIsALeapYear" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_HunderedIsNotALeapYear" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TWOHUNDEREDIsNotALeapYear" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TwoHunderedIsNotALeapYear" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CalenderTests.test7_EightHunderedIsALeapYear" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TwoHunderedIsNotALeapYear" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TWOHUNDEREDIsNotALeapYear" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_HunderedIsNotALeapYear" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_EightIsALeapYear" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalenderTests.test1_FourIsALeapYear" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CalenderTests.test7_EightHunderedIsALeapYear" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TwoHunderedIsNotALeapYear" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_TWOHUNDEREDIsNotALeapYear" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_HunderedIsNotALeapYear" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalenderTests.test3_EightIsALeapYear" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -567,14 +567,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Calender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="43" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0">
+        <state line="13" column="117" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/CalenderTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="4" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.857685">
+        <state line="47" column="44" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.857685">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
