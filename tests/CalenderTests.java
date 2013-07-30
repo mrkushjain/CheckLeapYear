@@ -33,7 +33,10 @@ public class CalenderTests {
         assertFalse(calender.isLeapYear(100));
     }
 
-
+    @Test
+    public void test3_TwoHunderedIsNotALeapYear() throws Exception {
+        assertFalse(calender.isLeapYear(200));
+    }
 
 
 }
